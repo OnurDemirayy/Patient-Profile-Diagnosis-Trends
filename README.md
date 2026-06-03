@@ -3,7 +3,7 @@
 An enterprise-level healthcare business intelligence solution developed in Power BI. This repository showcases end-to-end data pipelines, advanced relational data modeling, and data visualization strategies applied to clinical operations, patient demographics, and ICD-10 diagnostic trends.
 
 ## 💻 Dashboard Interface
-![Clinic Performance Analytics](patient.png.png)
+![Clinic Performance Analytics](patient.png)
 
 ---
 
